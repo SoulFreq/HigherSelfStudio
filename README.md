@@ -1,1 +1,1 @@
-# HigherSelfStudio
+# Higher Self Studio — Next.js Starter\n\n1. Copy `.env.example` to `.env.local` and fill in variables.\n2. `npm install`\n3. `npm run dev` -> http://localhost:3000\n
